@@ -1,0 +1,5 @@
+{
+  "name": "Docusaurus Clone: Docs & Blog",
+  "description": "A documentation and blog site template, replicating the Docusaurus V2 look and feel. Built with React, TypeScript, and Tailwind CSS to view GitHub repos as beautiful sites.",
+  "requestFramePermissions": []
+}
